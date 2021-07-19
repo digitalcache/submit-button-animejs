@@ -28,6 +28,7 @@ body {
     font: bold 1.25rem/1 poppins;
     color: #0D55FF;
     position: absolute;
+    pointer-events: none;
     top: 50%;
     transform: translateY(-52%);
     left: 0;
